@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _02_Varaibles
+namespace _02_Variables
 {
     internal class Program
     {
